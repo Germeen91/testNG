@@ -1,0 +1,6 @@
+To generate testng.xml file >> that will help us to run our code(like runner class)
+
+Settings + plugin + MarketPlace+ search"XML" [create TestNG.XML] + press install
+
+RightClick on any class + create TestNG XML + OK + From file "Reload All from Disk" + from code "Reformat Code"
+Now run any class any tag name you want
