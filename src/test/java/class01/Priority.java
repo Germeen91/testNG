@@ -3,7 +3,7 @@ package class01;
 import org.testng.annotations.Test;
 
 public class Priority {  // testNG execute test cases Alphabetical .. so, to execute your test case as you want put priority
-
+// 0 by default
     @Test (priority = 3)
     public void A(){
         System.out.println("i am test case A");

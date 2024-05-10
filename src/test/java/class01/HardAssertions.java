@@ -48,7 +48,7 @@ public class HardAssertions {
 
         // if first assertion failed will not check the rest of assertions [called hard assertion]
     }
-
+  //Hard assertions stopped after first error
 
     @AfterMethod(alwaysRun = true)
     public void tearDown(){

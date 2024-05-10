@@ -7,7 +7,6 @@ public class listener implements ITestListener {// put your cursor on ITestListe
 // it is implements ITestListener interface class
 
 
-
     @Override
     public void onTestSuccess(ITestResult result){
         System.out.println("the test case passed");
